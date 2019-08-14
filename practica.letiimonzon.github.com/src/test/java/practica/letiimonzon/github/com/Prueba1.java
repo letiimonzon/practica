@@ -50,7 +50,7 @@ public class Prueba1 {
 		return t2;
 
 	}
-
+//prueba
 	@DataProvider(name = "personas")
 	public Object[][] dPP() {
 		Object[][] personas = new Object[][] { { "Analia", 14 }, { "Leti", 22 }, { "Gaston", 12 }, };
